@@ -17,5 +17,11 @@
 # CSS Layout - Flexbox
 <br>
 <br>
-What are some advantages of using flexbox over float?
-How does this topic connect with your long term goals?
+1.What are some advantages of using flexbox over float?
+<br>
+***Using float over flexbox can allow for better accessibility of a visual representation of text for the user to see without having to worry about the texts being wrapped in an unpleasant way.***
+<br>
+<br>
+2.How does this topic connect with your long term goals?
+<br>
+***I believe that this will create a wider range of visitors for a website or app providing a wide variety of accessiblity features for consumers.***
